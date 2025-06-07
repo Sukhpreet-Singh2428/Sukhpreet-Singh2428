@@ -1,7 +1,6 @@
-Hi, I'm Sukhpreet Singh ✨
+## Hi, I'm Sukhpreet Singh ​✨​
 
 🧠​ Computer Science and Engineering Student at Chitkara University
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_sukhpreetsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sukhpreet-singh-301573321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukhpreetsingh3910a@gmail.com) 
