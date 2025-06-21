@@ -11,9 +11,7 @@
 ## GitHub Stats 🌱
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhpreet-Singh2428&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Sukhpreet-Singh2428&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sukhpreet-Singh2428&theme=aura&hide_border=false)<br/>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
