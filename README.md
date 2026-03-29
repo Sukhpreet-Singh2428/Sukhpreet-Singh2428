@@ -3,7 +3,7 @@
 - 🎓 B.E. in Computer Science Engineering, Chitkara University  
 - ⭐ Star Programmer – University Coding Competition  
 - 🥇 Top Performer Award – First-Year, First Semester  
-- 💻 LeetCode Rating: 1500+ | 280+ Problems Solved  
+- 💻 LeetCode Rating: 1400+ (Peak rating: 1570) | 300+ Problems Solved  
 
 Focused on Data Structures & Algorithms and Backend Development.  
 Actively strengthening problem-solving ability and building scalable, efficient software systems with clean and maintainable code.
