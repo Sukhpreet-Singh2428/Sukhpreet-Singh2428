@@ -39,4 +39,4 @@ Actively strengthening problem-solving ability and building scalable, efficient 
 </p>
 
 ## GitHub Stats:
-<a href="http://www.github.com/Sukhpreet-Singh2428"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukhpreet-Singh2428&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://streak-stats.demolab.com/?user=Sukhpreet-Singh2428&theme=nightowl&hide_border=false)
