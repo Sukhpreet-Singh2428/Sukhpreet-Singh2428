@@ -4,7 +4,7 @@
 - **Achievements** :
   - 🥇 Top Performer Award – First-Year, First Semester  
   - Among Top 50 Star Programmer – University Coding Competition (First-Year)
-  - LeetCode Rating: 1460+ (Peak rating: 1570) | 500+ Problems Solved  
+  - LeetCode Rating: 1460+ (Peak rating: 1570) | 550+ Problems Solved  
 
 Focused on Data Structures & Algorithms and Backend Development.  
 Actively strengthening problem-solving ability and building scalable, efficient software systems with clean and maintainable code.
